@@ -1,5 +1,7 @@
 
-## Scanline intersection similarity (SIS) calculation code
+## Scanline intersection similarity (SIS)
+
+SIS.py : code for SIS calculation
 
 From preprint titled "Scanline Intersection Similarity: A Similarity Metric for Joint Trace Maps" by Jineon Kim<sup>a</sup>, Yong-Ki Lee<sup>b</sup>, Chae-Soon Choi<sup>b</sup>, Sayedalizreza Fereshtenejad<sup>c</sup>, and Jae-Joon Song<sup>a,d</sup>.
 
